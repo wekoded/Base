@@ -15,7 +15,7 @@
 
 <h3 align="center">Kodesarrolladores</h3>
 <p align="center">
-Convertimos ideas en proyectos, buscando acercar<br>
-la programación a todos, generando ideas,<br>
-proyectos y aprendiendo cada día.
+Somos un espacio digital que busca posicionarse <br>
+en Latinoamérica como la mayor comunidad <br>
+de programadores.
 </p>
